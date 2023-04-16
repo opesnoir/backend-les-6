@@ -1,0 +1,18 @@
+Functionele eisen
+1.	Het bijhouden van de voorraad van producten en het aantal verkochte producten.
+2.	Mogelijkheid om verschillende gebruikers met verschillende rechten te creëren en beheren.
+3.	Het opslaan van productnamen en beschrijvingen in de applicatie.
+4.	Het laten zien van welke producten samen kunnen worden gebruikt.
+Niet functionele eisen
+
+uit antwoordenmodel:
+Vragen voor niet functionele eisen:
+- Is het een performance?
+- Is het veiligheid?
+- Is het beveiliging?
+- Is het kwaliteit?
+
+NF1. Als systeem wordt een JWT gebruikt voor de beveiliging.
+NF2. Als systeem kunnen er minimaal 20 gebruikers tegelijk zijn ingelogd.
+NF3. Als gebruiker wil ik een overzichtelijke interface hebben.
+NF4. Als systeem kan er per gebruiker, 1 verzoek tegelijk worden afgehandeld.
